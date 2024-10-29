@@ -1,0 +1,376 @@
+[
+    {
+        "name": "ALÇAPÃO COM TAMPA",
+        "image": "alcapaocomtampa.png",
+        "variations": [
+            "40X40",
+            "50X50",
+            "60X60"
+        ]
+    },
+    {
+        "name": "ALÇAPÃO SEM TAMPA",
+        "image": "alcapaosemtampa.png",
+        "variations": [
+            "40X40",
+            "50X50",
+            "60X60"
+        ]
+    },
+    {
+        "name": "ALICATE PRENDEDOR DE PERFIL",
+        "image": "alicateprendedordeperfil.png"
+    },
+    {
+        "name": "ALICATE UNIVERSAL",
+        "image": "alicateuniversal.png"
+    },
+    {
+        "name": "ARAME 10",
+        "image": "arame10.png"
+    },
+    {
+        "name": "ARAME 18",
+        "image": "arame18.png"
+    },
+    {
+        "name": "BALDE DE MASSA",
+        "image": "baldedemassa.png",
+        "variations": [
+            "16KG",
+            "25KG"
+        ]
+    },
+    {
+        "name": "BROCAS DE ENCAIXE SDS PLUS",
+        "image": "brocadeencaixesdsplus.png"
+    },
+    {
+        "name": "BROCA DE CONCRETO",
+        "image": "brocadeconcreto.png"
+    },
+    {
+        "name": "BUCHA",
+        "image": "bucha.png",
+        "variations": [
+            "NÚMERO 5",
+            "NÚMERO 6"
+        ]
+    },
+    {
+        "name": "BUCHA COM ANEL",
+        "image": "buchacomanel.png"
+    },
+    {
+        "name": "CAIXA DE LUZ",
+        "image": "caixadeluz.png",
+        "variations": [
+            "4X2",
+            "4X4"
+        ]
+    },
+    {
+        "name": "CANTONEIRA",
+        "image": "cantoneira.png",
+        "variations": [
+            "14X30 3,00",
+            "25X30 3,00"
+        ]
+    },
+    {
+        "name": "CARRILHO",
+        "image": "carrilho.png"
+    },
+    {
+        "name": "CHAPA CIMENTÍCIA",
+        "image": "chapacimenticia.png"
+    },
+    {
+        "name": "CINTO COM 11 BOLSOS COURO PARA FERRAMENTAS",
+        "image": "cintocomonzebolsos.png"
+    },
+    {
+        "name": "DESEMPENADEIRA AÇO INOX",
+        "image": "desempenadeiraacoinox.png"
+    },
+    {
+        "name": "DESEMPENADEIRA INOX P/MASSA CORRIDA PLUS LOTUS",
+        "image": "desempenadeirainoxmassacorrida.png",
+        "variations": [
+            "25X12",
+            "40X12",
+            "60X12"
+        ]
+    },
+    {
+        "name": "EMENDA F530",
+        "image": "emendaf530.png"
+    },
+    {
+        "name": "ESPATULA AÇO CROMADO",
+        "image": "espatulaacocromado.png",
+        "variations": [
+            "1\"",
+            "1,5\"",
+            "2\"",
+            "2,5\"",
+            "3\"",
+            "4\"",
+            "5\"",
+            "6\"",
+            "8\""
+        ]
+    },
+    {
+        "name": "ESTILETE LÂMINA 25MM PRO",
+        "image": "estiletelamina.png"
+    },
+    {
+        "name": "ESTOPA PACOTE 1KG (JUTA)",
+        "image": "estopapacote.png"
+    },
+    {
+        "name": "FINCA PINO 27 PENTE",
+        "image": "fincapino.png"
+    },
+    {
+        "name": "FITA BANDA ACUSTICA",
+        "image": "fitabandaacustica.png",
+        "variations": [
+            "48 30MTS",
+            "70 30MTS",
+            "90 10MTS"
+        ]
+    },
+    {
+        "name": "FITA TELADA 90 MTS AZUL",
+        "image": "fitateladaazul.png"
+    },
+    {
+        "name": "FITA TELADA 90 MTS BRANCA",
+        "image": "fitateladabranca.png"
+    },
+    {
+        "name": "FITA DE PAPEL WALLPAPER",
+        "image": "fitapapelwallpaper.png"
+    },
+    {
+        "name": "GESSO COLA 5KG",
+        "image": "gesso.png"
+    },
+    {
+        "name": "GESSO EM PÓ",
+        "image": "gesso.png",
+        "variations": [
+            "5KG",
+            "40KG"
+        ]
+    },
+    {
+        "name": "GUIA",
+        "image": "guia.png",
+        "variations": [
+            "48 3,00",
+            "70 3,00",
+            "90 3,00"
+        ]
+    },
+    {
+        "name": "JUNÇÃO H",
+        "image": "juncaoh.png"
+    },
+    {
+        "name": "LÃ DE ROCHA",
+        "image": "laderocha.png",
+        "variations": [
+            "32KG",
+            "64KG"
+        ]
+    },
+    {
+        "name": "LÃ DE VIDRO ROLO 15 M² ISOVER",
+        "image": "ladevidro.png"
+    },
+    {
+        "name": "LÂMINA P/ESTILETE 10 UNID 25MM",
+        "image": "laminaestilete.png"
+    },
+    {
+        "name": "LINHA DE PEDREIRO",
+        "image": "linhadepedreiro.png"
+    },
+    {
+        "name": "MARTELO UNHA",
+        "image": "martelounha.png"
+    },
+    {
+        "name": "MASSA CIMENTÍCIA",
+        "image": "massacimenticia.png",
+        "variations": [
+            "5KG",
+            "20KG"
+        ]
+    },
+    {
+        "name": "MONTANTE",
+        "image": "montante.png",
+        "variations": [
+            "48 3,00",
+            "70 3,00",
+            "90 3,00"
+        ]
+    },
+    {
+        "name": "PARAFUSO PONTO AGULHA GN OUROFIX",
+        "image": "parafusogn.png",
+        "variations": [
+            "13",
+            "25",
+            "35",
+            "45"
+        ]
+    },
+    {
+        "name": "PARAFUSO PONTO BROCA GN OUROFIX",
+        "image": "parafusogn.png",
+        "variations": [
+            "13",
+            "25"
+        ]
+    },
+    {
+        "name": "PERFIL F530 3,00",
+        "image": "perfilf530.png"
+    },
+    {
+        "name": "PINO CADEIRINHA",
+        "image": "pinocadeirinha.png"
+    },
+    {
+        "name": "PINO COM ARRUELA LISO ¼",
+        "image": "pinocomruela.png"
+    },
+    {
+        "name": "PLACA CIMENTICIA",
+        "image": "placacimenticia.png",
+        "variations": [
+            "10ML 1,20X2,40",
+            "10ML 1,20X2,40 COM BORDA REBAIXADA",
+            "6ML 1,20X2,40"
+        ]
+    },
+    {
+        "name": "PLACA DE GESSO RF",
+        "image": "placadegessorf.png",
+        "variations": [
+            "1,20X1,80 12,5MM",
+            "1,20X2,40 15MM",
+            "1,20X2,40 12,5MM"
+        ]
+    },
+    {
+        "name": "PLACA DE GESSO RU",
+        "image": "placadegessoru.png",
+        "variations": [
+            "1,20X1,80 12,5MM",
+            "1,20X2,40 12,5MM"
+        ]
+    },
+    {
+        "name": "PLACA DE GESSO ST",
+        "image": "placadegessost.png",
+        "variations": [
+            "1,20X1,80 12,5MM",
+            "1,20X2,40 12,5MM"
+        ]
+    },
+    {
+        "name": "PLACA ISOPOR",
+        "image": "placaisopor.png",
+        "variations": [
+            "20MM",
+            "38MM",
+            "40MM"
+        ]
+    },
+    {
+        "name": "PORTA COMPLETA BRANCA",
+        "image": "portacompletabranca.png",
+        "variations": [
+            "62 BATENTE 7,5 DIREITO",
+            "62 BATENTE 7,5 ESQUERDO",
+            "62 BATENTE 9,5 DIREITO",
+            "62 BATENTE 9,5 ESQUERDO",
+            "72 BATENTE 7,5 DIREITO",
+            "72 BATENTE 7,5 ESQUERDO",
+            "72 BATENTE 9,5 DIREITO",
+            "72 BATENTE 9,5 ESQUERDO",
+            "82 BATENTE 7,5 DIREITO",
+            "82 BATENTE 7,5 ESQUERDO",
+            "82 BATENTE 9,5 DIREITO",
+            "82 BATENTE 9,5 ESQUERDO",
+            "92 BATENTE 7,5 DIREITO",
+            "92 BATENTE 7,5 ESQUERDO",
+            "92 BATENTE 9,5 DIREITO",
+            "92 BATENTE 9,5 ESQUERDO"
+        ]
+    },
+    {
+        "name": "PREGO DE AÇO 15X15",
+        "image": "pregodeaco.png",
+        "variations": [
+            "1,20X1,80 12,5MM",
+            "1,20X2,40 12,5MM"
+        ]
+    },
+    {
+        "name": "PRESILHA MULTIUSO",
+        "image": "presilhamultiuso.png"
+    },
+    {
+        "name": "REBITE 530 ABA LARGA",
+        "image": "rebiteabalarga.png"
+    },
+    {
+        "name": "REFIL LINHA DE GIZ VERMELHO",
+        "image": "refillinhadegiz.png"
+    },
+    {
+        "name": "REGULADOR PARA MONTANTE",
+        "image": "reguladorparamontante.png"
+    },
+    {
+        "name": "REGULADOR PRESILHA",
+        "image": "reguladorpresilha.png",
+        "variations": [ "F530", "F530 ANÃO" ]
+    },
+    {
+        "name": "SERROTE GESSEIRO CB MADEIRA",
+        "image": "serrotegesseirocabomadeira.png"
+    },
+    {
+        "name": "SERROTE JACARÉ PEQUENO",
+        "image": "serrotejacare.png"
+    },
+    {
+        "name": "TABICA LISA PINTADA 3,00 BRANCA",
+        "image": "tabicalisa.png"
+    },
+    {
+        "name": "TABICA PERFURADA 3,00 BRANCA",
+        "image": "tabicaperfurada.png"
+    },
+    {
+        "name": "TIRANTE",
+        "image": "tirante.png",
+        "variations": [ "50CM", "100CM", "150CM", "200CM", "300CM" ]
+    },
+    {
+        "name": "TRENA 5X19MM FLEX",
+        "image": "trena519.png"
+    },
+    {
+        "name": "TRENA 7,5X25MM FLEX",
+        "image": "trena7525.png"
+    }
+]
